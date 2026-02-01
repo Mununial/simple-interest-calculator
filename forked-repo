@@ -1,0 +1,7 @@
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : [{"id":1147255559,"node_id":"R_kgDOR...
+RawContent        : HTTP/1.1 200 OK
+Headers           : {...}
