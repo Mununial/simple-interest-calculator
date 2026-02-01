@@ -1,0 +1,18 @@
+curl https://api.github.com/repos/Mununial/simple-interest-calculator/pulls
+
+[
+  {
+    "id": 123456789,
+    "state": "open",
+    "head": {
+      "repo": {
+        "full_name": "Mununial/simple-interest-calculator"
+      }
+    },
+    "base": {
+      "repo": {
+        "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
+]
