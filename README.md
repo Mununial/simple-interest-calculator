@@ -1,15 +1,14 @@
-# simple-interest-calculator
-#!/bin/bash
+# Simple Interest Calculator
 
-echo "Enter Principal:"
-read principal
+This project calculates Simple Interest using a Bash script.
 
-echo "Enter Rate of Interest:"
-read rate
+## Formula
+Simple Interest = (Principal × Rate × Time) / 100
 
-echo "Enter Time:"
-read time
+## Inputs
+- Principal
+- Rate of Interest
+- Time Period
 
-interest=$((principal * rate * time / 100))
-
-echo "Simple Interest is: $interest"
+## Usage
+Run the simple-interest.sh script and enter values when prompted.
